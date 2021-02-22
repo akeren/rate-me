@@ -1,0 +1,5 @@
+node_modules/
+Dev_data/
+.env
+.vscode-janus-debug
+.vscode/
